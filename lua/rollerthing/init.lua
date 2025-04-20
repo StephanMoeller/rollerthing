@@ -1,4 +1,4 @@
-local export = {};
+local export = {}
 local function export.roll_go(){
   vim.cmd('echo "hello"')
 }
